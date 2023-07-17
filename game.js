@@ -24,3 +24,7 @@ function submit() {
 		console.log("Error");
 	}
 }
+
+function reset() {
+	location.href = "./game.html";
+}
