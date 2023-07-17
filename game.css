@@ -39,6 +39,14 @@
 	background: #44475a;
 }
 
+#reset {
+	all: unset;
+	padding: 8px;
+	border: 1px solid #f8f8f2;
+	border-radius: 5px;
+	background: #44475a;
+}
+
 #result {
 	width: min(60%, 280px);
 	border: 1px solid #44475a;
